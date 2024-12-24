@@ -1,0 +1,21 @@
+#counterid{
+    display: block;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 10em;
+    text-align: center;
+}
+#btncontainer{
+    text-align: center;
+}
+button{
+    padding: 20px;
+    font-size: 1.5em;
+    color: white;
+    background-color: rgb(76, 104, 194);
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all .25s;
+}
+button:hover{
+    background-color: aqua;
+}
